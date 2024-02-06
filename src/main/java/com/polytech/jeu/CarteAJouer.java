@@ -4,10 +4,10 @@ import java.util.Arrays;
 import java.util.List;
 
 public class CarteAJouer {
-    private String couleur;
-    private String valeur;
-    private String[] couleursValides = {"PIQUE","COEUR","CARREAU","TREFLE"};
-    private String[] valeursValides = {"DEUX","TROIS","QUATRE","CINQ","SIX","SEPT","HUIT","NEUF","DIX","VALET","DAME","ROI","AS"};
+    private final String couleur;
+    private final String valeur;
+    private final String[] couleursValides = {"PIQUE","COEUR","CARREAU","TREFLE"};
+    private final String[] valeursValides = {"DEUX","TROIS","QUATRE","CINQ","SIX","SEPT","HUIT","NEUF","DIX","VALET","DAME","ROI","AS"};
 
     public CarteAJouer(String couleur, String valeur){
         this.couleur = couleur.toUpperCase();

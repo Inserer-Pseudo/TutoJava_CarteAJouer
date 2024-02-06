@@ -9,6 +9,7 @@ public class Main {
         System.out.println(new CarteAJouer("trefle", "DAME"));
         System.out.println(new CarteAJouer("TREFLE", "troIs"));
         System.out.println(new CarteAJouer("carreau", "sept"));
+        System.out.println(" ");
 
         JeuDeCarte jeu = new JeuDeCarte();
 

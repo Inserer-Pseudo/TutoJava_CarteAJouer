@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c70b10f-22c3-4008-9f69-f77d79cf0af4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/jeu/CarteAJouer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/polytech/jeu/JeuDeCarte.java" afterDir="false" />
+    <list default="true" id="8c70b10f-22c3-4008-9f69-f77d79cf0af4" name="Changes" comment="ajout classe jeu de carte et surcharge de toString">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/polytech/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/polytech/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/polytech/jeu/CarteAJouer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/polytech/jeu/CarteAJouer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +67,24 @@
       <workItem from="1706180481019" duration="1961000" />
       <workItem from="1706828653148" duration="1116000" />
       <workItem from="1707137698055" duration="43000" />
-      <workItem from="1707175261886" duration="878000" />
+      <workItem from="1707175261886" duration="1732000" />
     </task>
+    <task id="LOCAL-00001" summary="ajout classe jeu de carte et surcharge de toString">
+      <option name="closed" value="true" />
+      <created>1707210139352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707210139352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajout classe jeu de carte et surcharge de toString" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout classe jeu de carte et surcharge de toString" />
   </component>
 </project>
