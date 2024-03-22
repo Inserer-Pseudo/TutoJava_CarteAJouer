@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/polytech/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/polytech/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/polytech/jeu/CarteAJouer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/polytech/jeu/CarteAJouer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/polytech/jeu/JeuDeCarte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/polytech/jeu/JeuDeCarte.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,13 @@
       <workItem from="1706180481019" duration="1961000" />
       <workItem from="1706828653148" duration="1116000" />
       <workItem from="1707137698055" duration="43000" />
-      <workItem from="1707175261886" duration="1732000" />
+      <workItem from="1707175261886" duration="1941000" />
+      <workItem from="1707225290460" duration="4743000" />
+      <workItem from="1707311464197" duration="672000" />
+      <workItem from="1707376814316" duration="2530000" />
+      <workItem from="1710315999538" duration="241000" />
+      <workItem from="1710768768670" duration="4000" />
+      <workItem from="1710769211940" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="ajout classe jeu de carte et surcharge de toString">
       <option name="closed" value="true" />
@@ -77,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707210139352</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout classe jeu de carte et surcharge de toString">
+      <option name="closed" value="true" />
+      <created>1707210326156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707210326156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
